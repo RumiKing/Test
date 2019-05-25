@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Test
 {
-    class Test
+    public class Test
     {
     }
 }
